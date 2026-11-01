@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="assets/logo.svg" alt="ShowPara Logo" width="96" height="96" />
+  <img src="assets/logo.svg" alt="FastTrans Logo" width="96" height="96" />
 
-  # ShowPara Privacy ToolSuite
+  # FastTrans Privacy ToolSuite
   
   **100% Client-Side, Zero-Server-Upload Web Utilities for Developers, Creators & Privacy Advocates.**
 
   <p align="center">
-    <a href="https://showpara.online"><strong>Explore ShowPara Live »</strong></a>
+    <a href="https://showpara.online"><strong>Explore FastTrans Live »</strong></a>
     <br />
     <br />
     <a href="https://showpara.online">🚀 Launch App</a>
@@ -28,7 +28,7 @@
 
   <br />
 
-  <img src="assets/og-image.png" alt="ShowPara Hero Preview" width="85%" style="border-radius: 12px; box-shadow: 0 12px 32px rgba(0,0,0,0.15);" />
+  <img src="assets/og-image.png" alt="FastTrans Hero Preview" width="85%" style="border-radius: 12px; box-shadow: 0 12px 32px rgba(0,0,0,0.15);" />
 
 </div>
 
@@ -36,13 +36,13 @@
 
 ---
 
-## ⚡ The ShowPara Difference
+## ⚡ The FastTrans Difference
 
 Traditional online converters (**Smallpdf**, **iLovePDF**, **TinyWow**) require you to upload private contracts, tax returns, and passport photos to third-party cloud servers. Once uploaded, you forfeit control over where your sensitive documents are cached, indexed, or stored.
 
-**ShowPara redefines web utilities with client-side isolation:**
+**FastTrans redefines web utilities with client-side isolation:**
 
-| Feature | ☁️ Traditional Cloud Converters | 🔒 ShowPara Privacy Suite |
+| Feature | ☁️ Traditional Cloud Converters | 🔒 FastTrans Privacy Suite |
 |---|:---:|:---:|
 | **Server File Upload** | ⚠️ Yes (Sent to remote servers) | 🛡️ **0 Bytes (Never leaves your device)** |
 | **Data Processing Location** | Remote Cloud Data Centers | **Local Browser Memory (WASM / Canvas)** |
@@ -94,7 +94,7 @@ Every utility below runs isolated in your browser tab. Click any tool to launch 
 
 ## 🏗️ Technical Architecture
 
-ShowPara guarantees zero egress bandwidth on user data. Here is how your files are handled:
+FastTrans guarantees zero egress bandwidth on user data. Here is how your files are handled:
 
 ```
 [ Your Local File ]
