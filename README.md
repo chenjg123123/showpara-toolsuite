@@ -62,6 +62,9 @@ Every utility below runs isolated in your browser tab. Click any tool to launch 
 ### 📑 PDF Productivity Suite
 | Tool | Core Capability | Direct Link |
 |---|---|:---:|
+| **Compress PDF** | Target exact byte ceilings (1MB, 2MB, 500KB) for visa & email | [Launch Tool »](https://showpara.online/compress-pdf/) |
+| **Compress PDF to 1MB** | Dedicated Schengen visa, USCIS & email portal compressor | [Launch Tool »](https://showpara.online/compress-pdf-to-1mb/) |
+| **Compress PDF to 2MB** | State court e-filing, legal briefs & government job compressor | [Launch Tool »](https://showpara.online/compress-pdf-to-2mb/) |
 | **PDF to JPG** | High-DPI page extraction directly to lossless JPEG/PNG | [Launch Tool »](https://showpara.online/pdf-to-jpg/) |
 | **PDF Merge** | Drag, visual reorder, and combine multiple PDF documents | [Launch Tool »](https://showpara.online/pdf-merge/) |
 | **PDF Split** | Extract specific page ranges or burst into standalone PDFs | [Launch Tool »](https://showpara.online/pdf-split/) |
